@@ -1,2 +1,2 @@
 # Atreyi95.github.io
-Music Page structure in HTML and CSS
+Music Page structure created using HTML and CSS 
